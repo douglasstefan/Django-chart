@@ -34,12 +34,6 @@ Any query string delimiter like
 
 is possible.
 
-## Related Projects
-
-<https://github.com/nils-werner/raspi-dashboard> is a dashboard-style Linux
-installation for the Raspberry Pi. It boots with read-only file systems to
-make shutting down and rebooting the system easier (by just unplugging it).
-
 ## Example
 
 An example of this site can be found on <http://nils-werner.github.io/owm-display/>
